@@ -1,11 +1,2 @@
 # Ignore everything
 *
-
-# But not these files...
-!.gitconfig
-!.gitignore
-!.bashrc
-!.vimrc
-
-!.config/sublime-text/Packages/User/Preferences.sublime-settings
-!.config/Code/User/settings.json
